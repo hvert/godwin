@@ -218,8 +218,9 @@ th {
 }
 
 label {
-  display: inline-block;
-  margin-bottom: 0.5rem;
+    display: inline-block;
+    margin-bottom: 0.5rem;
+    color: #F8F9FA;
 }
 
 button {
